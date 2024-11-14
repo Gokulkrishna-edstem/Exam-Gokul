@@ -19,4 +19,6 @@ This is a README file with exam description
 
 this is for testing squash
 this is the second line for testing squash
+this is a buggy line for testing
 this is the final line for testing squash
+this is the second buggy line
