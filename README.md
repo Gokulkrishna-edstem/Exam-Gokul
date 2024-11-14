@@ -13,9 +13,6 @@ This is a README file with exam description
 9. pulled the latest changes from main
 10. resolved the merge conflicts
 11. push it to main
-12. created a pullrequest
-
-13.used git rebase into feature branch 14. used the squash
 
 this is for testing squash
 this is the second line for testing squash
