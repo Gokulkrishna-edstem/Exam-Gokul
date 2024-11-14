@@ -16,3 +16,5 @@ This is a README file with exam description
 12. created a pullrequest
 
 13.used git rebase into feature branch 14. used the squash
+
+this is for testing squash
