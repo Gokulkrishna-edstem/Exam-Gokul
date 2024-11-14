@@ -18,3 +18,4 @@ This is a README file with exam description
 13.used git rebase into feature branch 14. used the squash
 
 this is for testing squash
+this is the second line for testing squash
